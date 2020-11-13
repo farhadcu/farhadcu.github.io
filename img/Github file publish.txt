@@ -1,0 +1,5 @@
+Github file publish:
+
+1. Add local repository and select file & create repository
+2. Create a new reposity: Name:username.github.io and select create repository 
+3. Publish repository: name:username.github.io (optional) and select publish repository
